@@ -1,0 +1,5 @@
+body section {width:100%;}
+body section div.wrap ul li {list-style:none; text-align:center;}
+body section div.wrap ul li + li {margin-top:20px; line-height:20px;}
+body section div.wrap ul li input[type=text] {display:inline-block; width:250px; height:20px; border:1px solid #000; line-height:24px;}
+body section div.wrap ul li button[type=button] {padding:10px 20px; border:1px solid #000;}
